@@ -26,12 +26,12 @@ The results for this model were:
 ## Model Evaluation 2
 <ul>
   <li><strong>Compiling, Training, and Evaluating the Model</strong></li>
-  <p align = 'justify'>The attempt at compiling a neural network consisted of layers of 3 neurons: the second one of 50 and the third one of 20 all layers had relu activation functions. In addition, the output layer had a sigmoid activation function. The assembled model had the Adam optimization algorithm, and the fitting  model had a validation split of 0.15 and 100 epochs.</p>
+  <p align = 'justify'>The attempt at compiling a neural network consisted of 3 layers: the first of 100 neurons, the second one of 50 and the third one of 2 all layers had relu activation functions. In addition, the output layer had a sigmoid activation function. The assembled model had the Adam optimization algorithm, and the fitting  model had a validation split of 0.15 and 100 epochs.</p>
       
   The results for this model were:
 <ul>
 <li>Loss: 0.5734</li>
-<li>Accuracy: 0.7294</li>
+<li>Accuracy: 0.7280</li>
 <li>Recall: 0.7822</li>
 </ul></ul>
 
